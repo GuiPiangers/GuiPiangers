@@ -1,7 +1,5 @@
 ### Olá! Eu sou Guilherme Piangers 👋
 
-![GuiPiangers](https://github-readme-stats.vercel.app/api?username=GuiPiangers&show_icons=true&theme=dracula)
-
 ## Tecnologias que eu utilizo
 
 <div style="display: inline_block"><br>

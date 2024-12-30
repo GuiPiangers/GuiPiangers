@@ -1,13 +1,45 @@
-### Olá! Eu sou Guilherme Piangers 👋
+# Olá, sou Guilherme Piangers! 👋
 
-## Tecnologias que eu utilizo
+Bem-vindo ao meu perfil no GitHub! Sou um **desenvolvedor de software autodidata** com sólida experiência em construção de aplicações modernas e escaláveis. Tenho paixão por resolver problemas reais com tecnologia e estou sempre comprometido com a entrega de soluções de alta qualidade.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-</div>
+---
+
+## 🛠️ Habilidades Técnicas
+
+### **Frontend**
+- **Linguagens:** JavaScript (ES6+), TypeScript  
+- **Frameworks:** Next.js, React  
+
+### **Backend**
+- **Linguagens:** JavaScript, TypeScript  
+- **Frameworks:** Express.js, Node.js  
+- **Banco de Dados:** MySQL, PostgreSQL  
+
+### **DevOps e Infraestrutura**
+- Docker (containers e orquestração)  
+- AWS (EC2, S3)
+
+---
+
+## 📈 Projetos em Destaque
+
+### [Sistema de Gestão para Clínica de Quiropraxia](https://quiro-malu-front-end.vercel.app/)
+- **Descrição:** Uma aplicação completa para gerenciar pacientes, consultas e relatórios.  
+- **Tecnologias:** Next.js, Express.js, TypeScript, Tailwind CSS, MySQL  
+- **Destaques:**  
+  - Arquitetura modular para escalabilidade.  
+  - Utilização de Docker para containerização e deployment eficiente.  
+  - API RESTful bem estruturada para facilitar integrações futuras.  
+
+---
+
+## 🧠 Filosofia de Trabalho
+
+- **Autodidata:** Sempre em busca de aprendizado e inovação.  
+- **Clean Code e SOLID:** Escrevo código limpo e organizado, seguindo os princípios de design de software.  
+- **Colaboração:** Valorizo o trabalho em equipe e a troca de conhecimento.  
+
+---
+
+Obrigado por visitar meu perfil! 😊  
+Se você está em busca de um desenvolvedor dedicado e proativo para sua equipe, entre em contato! Estou disponível para discutir projetos e oportunidades.  
